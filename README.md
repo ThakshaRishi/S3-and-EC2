@@ -42,7 +42,6 @@ Connect to the Linux instance using SSH.
 Connect to the Windows instance using RDP.
 
 ## COMMANDS
-Include the commands used in the Experiment.
 
 ## OUTPUT
 ### REG NUMBER: 212223100058
